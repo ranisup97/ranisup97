@@ -25,7 +25,7 @@ I am a FrontEnd Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 
 - :seedling: I'm currently working on enhancing the user interface of our web application, focusing on creating a more intuitive and responsive design for better user experience.
 
-- :zap: In my free time, I solve problems on leetcode and read tech articles sometimes.
+- :zap: In my free time, I learn new technologies and deepen my current ones.
 
 - :mailbox:How to reach me: 
   <a id="badges" href="https://www.linkedin.com/in/rani-suprianti/">
