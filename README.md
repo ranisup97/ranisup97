@@ -23,7 +23,7 @@ I am a FrontEnd Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 
 - :telescope: I’m working as a Software Developer and contributing to frontend for building web and mobile applications.
 
-- :seedling: I'm currently working on enhancing the user interface of our web application, focusing on creating a more intuitive and responsive design for better user experience.
+- :seedling: I am currently working as a mobile developer.
 
 - :zap: In my free time, I learn new technologies and deepen my current ones.
 
